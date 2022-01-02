@@ -3,6 +3,6 @@
 <h2>Update log:</h2>
 <h3>Orginal release</h3>
 <br>
-Adds a house
-Config
-Error log GUI
+<p>Adds a house</p>
+<p>Config</p>
+<p>Error log GUI</p>
